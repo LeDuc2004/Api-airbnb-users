@@ -1,0 +1,36 @@
+{
+  "listuser": [
+    {
+      "sdt": "0972980198",
+      "mk": "lolquan1",
+      "name": "Lê Đức",
+      "img": "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/9497def4-f609-4fa0-96ba-3466b568d5e4.avif?alt=media&token=9bf73123-6790-42eb-8d0c-b7a6faccf0bd",
+      "id": 0
+    }
+  ],
+  "chuyendi": [
+    {
+      "id": 0,
+      "listphong": [
+        {
+          "id": 0,
+          "img": [
+            "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(1).jpg?alt=media&token=8fc7c57e-826c-47d0-9c46-16eb83be150e",
+            "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(1).jpeg?alt=media&token=df3d03a3-74f8-48f9-b831-4f2a1e0a1432",
+            "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(2).jpeg?alt=media&token=4bfc3937-24e3-435d-81e7-73aea68c5bda",
+            "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(2).jpg?alt=media&token=1e34a63e-8072-4c2f-8665-18913630a764",
+            "https://firebasestorage.googleapis.com/v0/b/uploadimg-a9a88.appspot.com/o/image%2Fimgbnb%20(3).jpeg?alt=media&token=7eb75e81-097d-4a7d-89a7-c79d780f1ae3",
+            ""
+          ],
+          "tencanho": "Chung cư giáp biển",
+          "startDate": "2023-04-02",
+          "endDate": "2023-04-03",
+          "totalDays": 1,
+          "price": "1000",
+          "chunha": "Lê Đức",
+          "diachi": "Thái Lan"
+        }
+      ]
+    }
+  ]
+}
